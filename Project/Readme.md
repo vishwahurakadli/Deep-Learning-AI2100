@@ -1,4 +1,4 @@
-#Deep Learning Project
+# Deep Learning Project
 ## AUTOMATED LIP READING USING DEEP LEARNING
 
 Dataset used [MIRACL-VC1](https://www.kaggle.com/datasets/apoorvwatsky/miraclvc1)
